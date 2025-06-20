@@ -5,5 +5,10 @@ console.log("I'm developing a new feature")
 console.log("welcome")
 
 
+console.log("King of Pirates.!!")
+
+console.log("Hey!! there")
 console.log("Hello my dear students!!")
+console.log("ola amigo")
+
 console.log("hello world!")
