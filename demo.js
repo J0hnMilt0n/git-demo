@@ -8,18 +8,12 @@ console.log("Hey!! Everyone Welcome to Git-hub Class")
 
 console.log("Hey!! Everyone Welcome to Git-hub Class")
 
-console.log("King of Pirates.!!")
 
 console.log("Hey!! there")
 console.log("pentagon")
-console.log("Hello my dear students!!")
-console.log("ola amigo")
-
-console.log("im soundarya")
-
-
-
-console.log("Hello my dear sir")
+console.log("Hello my dear students of pentagon space!!")
+console.log("Hello my  students how are you!!")
+console.log('Hey')
+console.log('resolve merge conflict')
 console.log("Hello, I'm Rohit")
-
-console.log("hello world!")
+console.log('The end of Beginning')
