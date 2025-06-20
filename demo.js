@@ -6,6 +6,7 @@ console.log("welcome")
 
 
 
+console.log("Hey!! there")
 console.log("pentagon")
 console.log("Hello my dear students!!")
 console.log("ola amigo")
