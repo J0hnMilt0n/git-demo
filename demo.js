@@ -8,8 +8,10 @@ console.log("Hey!! Everyone Welcome to Git-hub Class")
 
 console.log("Hey!! Everyone Welcome to Git-hub Class")
 
+console.log("King of Pirates.!!")
 
 console.log("Hey!! there")
+console.log("pentagon")
 console.log("Hello my dear students!!")
 console.log("ola amigo")
 
@@ -19,3 +21,5 @@ console.log("im soundarya")
 
 console.log("Hello my dear sir")
 console.log("Hello, I'm Rohit")
+
+console.log("hello world!")
