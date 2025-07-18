@@ -1,2 +1,2 @@
-console.log('git demo')
+console.log('modified line')
 console.log('added line')
